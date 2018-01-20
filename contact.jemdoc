@@ -1,14 +1,14 @@
 # jemdoc: menu{MENU}{contact.html}
 = Contact
 
-Office :\n
+*Office* :\n
 
 601 Union Street\n
 Suite 3800\n
 Seattle, WA 98101\n
 
-Email :\n
+*Email* :\n
 {{<img src="myemail2.png"/>}}
 
-Social Profiles :\n
+*Social Profiles* :\n
 {{<a href="https://www.facebook.com/rashish.tandon"><img src="fb.png" style="height:42px;width:42px;border:0"/></a>}}  {{<a href="https://www.linkedin.com/in/rashishtandon"><img src="in.png" style="height:42px;width:42px;border:0"/></a>}}
