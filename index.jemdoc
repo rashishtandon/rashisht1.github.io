@@ -3,14 +3,18 @@
 
 ~~~
 {}{img_left}{me.jpg}{me}{380px}{265px}{}
-I am a graduate student (PhD) in the [http://www.cs.utexas.edu/ Department of Computer Science] at [http://www.utexas.edu/ UT Austin], advised by [http://users.ece.utexas.edu/~dimakis/ Alex Dimakis] and [http://www.cs.utexas.edu/~pradeepr/ Pradeep Ravikumar](now at CMU). My research interests span machine learning and optimization in high-dimensional, big data and distributed settings.
+I am a ML Engineer at Apple, based in Seattle.
 
-Prior to joining UT Austin, I obtained a B.Tech/M.Tech(Dual Degree) in CS from [http://www.iitk.ac.in/ IIT Kanpur] in 2011.
+Prior to joining Apple, I was a graduate student (PhD) in the [http://www.cs.utexas.edu/ Department of Computer Science] at [http://www.utexas.edu/ UT Austin], advised by [http://users.ece.utexas.edu/~dimakis/ Alex Dimakis] and [http://www.cs.utexas.edu/~pradeepr/ Pradeep Ravikumar](now at CMU). My PhD thesis dealt with machine learning in high-dimensional and distributed settings. Prior to joining UT Austin, I obtained a B.Tech/M.Tech(Dual Degree) in CS from [http://www.iitk.ac.in/ IIT Kanpur] in 2011.
 
-Email : \n {{<img src="myemail.gif"/>}}
+Email : \n {{<img src="myemail2.png"/>}}
 ~~~
 
 == Research
+
+- PhD Thesis: On Structured and Distributed Learning [https://rashisht1.github.io/TANDON-DISSERTATION-2017.pdf \[pdf\]]
+\n ~~ R.Tandon
+
 - Gradient Coding from Cyclic MDS codes and Expander Graphs [https://arxiv.org/abs/1707.03858 \[pdf\]]
 \n ~~ N. Raviv, I. Tamo, R. Tandon, A. Dimakis
 \n ~~ /Preprint/
@@ -20,7 +24,7 @@ Email : \n {{<img src="myemail.gif"/>}}
 \n ~~ In /International Conference on Machine Learning (ICML) , 2017 (to appear)/
 \n ~~ - A shorter version appeared in the /ML Systems Workshop (MLSyS), NIPS 2016/
 
-- Kernel Ridge Regression via Partitioning [http://arxiv.org/abs/1608.01976 \[pdf\]] [http://www.cs.utexas.edu/~rashish/dckrr/demo_code.tar.gz \[code\]]
+- Kernel Ridge Regression via Partitioning [http://arxiv.org/abs/1608.01976 \[pdf\]] [https://rashisht1.github.io/dckrr/demo_code.tar.gz \[code\]]
 \n ~~ R. Tandon, S. Si, P. Ravikumar, I. Dhillon
 \n ~~ /Preprint/
 
@@ -36,7 +40,7 @@ Email : \n {{<img src="myemail.gif"/>}}
 \n ~~ A. Agarwal, A. Anandkumar, P. Jain, P. Netrapalli and R. Tandon
 \n ~~ In the /Conference on Learning Theory (COLT), 2014/
 
-- On the Difficulty of Learning Power-Law Graphical Models [http://www.cs.utexas.edu/~rashish/isit2013_final.pdf \[pdf\]]
+- On the Difficulty of Learning Power-Law Graphical Models [https://rashisht1.github.io/isit2013_final.pdf \[pdf\]]
 \n ~~ R. Tandon, P. Ravikumar
 \n ~~ In the /IEEE International Symposium on Information Theory (ISIT), 2013/
 
