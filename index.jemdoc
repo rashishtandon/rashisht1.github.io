@@ -1,0 +1,46 @@
+# jemdoc: menu{MENU}{index.html}
+= Rashish Tandon (राशीश टंडन)
+
+~~~
+{}{img_left}{me.jpg}{me}{380px}{265px}{}
+I am a graduate student (PhD) in the [http://www.cs.utexas.edu/ Department of Computer Science] at [http://www.utexas.edu/ UT Austin], advised by [http://users.ece.utexas.edu/~dimakis/ Alex Dimakis] and [http://www.cs.utexas.edu/~pradeepr/ Pradeep Ravikumar](now at CMU). My research interests span machine learning and optimization in high-dimensional, big data and distributed settings.
+
+Prior to joining UT Austin, I obtained a B.Tech/M.Tech(Dual Degree) in CS from [http://www.iitk.ac.in/ IIT Kanpur] in 2011.
+
+Email : \n {{<img src="myemail.gif"/>}}
+~~~
+
+== Research
+- Gradient Coding from Cyclic MDS codes and Expander Graphs [https://arxiv.org/abs/1707.03858 \[pdf\]]
+\n ~~ N. Raviv, I. Tamo, R. Tandon, A. Dimakis
+\n ~~ /Preprint/
+
+- Gradient Coding : Avoiding stragglers in distributed Synchronous Gradient Descent [https://arxiv.org/abs/1612.03301 \[pdf\]] [https://github.com/rashisht1/gradient_coding \[code\]]
+\n ~~ R. Tandon, Q. Lei, A. Dimakis, N. Karampatziakis
+\n ~~ In /International Conference on Machine Learning (ICML) , 2017 (to appear)/
+\n ~~ - A shorter version appeared in the /ML Systems Workshop (MLSyS), NIPS 2016/
+
+- Kernel Ridge Regression via Partitioning [http://arxiv.org/abs/1608.01976 \[pdf\]] [http://www.cs.utexas.edu/~rashish/dckrr/demo_code.tar.gz \[code\]]
+\n ~~ R. Tandon, S. Si, P. Ravikumar, I. Dhillon
+\n ~~ /Preprint/
+
+- On the Information Theoretic Limits of Learning Ising Models [http://arxiv.org/abs/1411.1434 \[pdf\]]
+\n ~~ R. Tandon, K. Shanmugam, P. Ravikumar, A. Dimakis
+\n ~~ In the /Advances in Neural Information Processing Systems (NIPS), 2014/
+
+- Learning Graphs with a Few Hubs [http://jmlr.org/proceedings/papers/v32/tandon14.pdf \[pdf\]] [http://jmlr.org/proceedings/papers/v32/tandon14-supp.pdf \[appendix\]]
+\n ~~ R.Tandon, P.Ravikumar
+\n ~~ In the /International Conference on Machine Learning (ICML), 2014/
+
+- Learning Sparsely Used Overcomplete Dictionaries via Alternating Minimization [http://jmlr.org/proceedings/papers/v35/agarwal14a.pdf \[pdf\]]
+\n ~~ A. Agarwal, A. Anandkumar, P. Jain, P. Netrapalli and R. Tandon
+\n ~~ In the /Conference on Learning Theory (COLT), 2014/
+
+- On the Difficulty of Learning Power-Law Graphical Models [http://www.cs.utexas.edu/~rashish/isit2013_final.pdf \[pdf\]]
+\n ~~ R. Tandon, P. Ravikumar
+\n ~~ In the /IEEE International Symposium on Information Theory (ISIT), 2013/
+
+== Teaching Experience\
+- /Teaching Assistant/, ~CS 303E - Elements of Computers and Programming, ~UT Austin, Fall 2016
+- /Teaching Assistant/, ~CS 378 - Statistical Learning and Data Mining, ~UT Austin, Spring 2013
+- /Teaching Assistant/, ~ESC 101 - Fundamentals of Computing, ~IIT Kanpur, ~Aug - Nov 2010
